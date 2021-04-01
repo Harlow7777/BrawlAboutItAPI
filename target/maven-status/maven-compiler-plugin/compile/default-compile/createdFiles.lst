@@ -1,0 +1,6 @@
+com\brawlaboutitapi\controller\RedemptionController.class
+com\brawlaboutitapi\repository\RedemptionRepository.class
+com\brawlaboutitapi\config\DatasourceConfiguration.class
+com\brawlaboutitapi\service\RedemptionService.class
+com\brawlaboutitapi\entities\RedemptionCodes.class
+com\brawlaboutitapi\Application.class
